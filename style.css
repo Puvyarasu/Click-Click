@@ -1,0 +1,39 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 152, 152);
+}
+
+
+.app{
+
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  padding-top: 50px;
+  border: 10px;
+}
+
+#click-count {
+    
+    /* font-family: 'Karla', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif; */
+
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 250px;
+    font-weight: 500;
+    color: antiquewhite;
+}
+
+#button {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+
+    color: antiquewhite;
+    background-color: brown;
+    padding: 5px 75px 10px 75px;
+    border-radius: 25px;
+    border-color: brown;
+}
